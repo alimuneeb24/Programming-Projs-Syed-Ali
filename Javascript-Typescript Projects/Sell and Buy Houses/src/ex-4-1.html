@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+    
+        #houses {
+            width: 85%;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+    
+        .houseContainer {
+            display: flex;
+            gap: 30px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            padding: 15px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            background-color: #fff;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+    
+        .houseContainer:hover {
+            transform: scale(1.02);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+        }
+    
+        .houseImage {
+            width: 200px;
+            height: 150px;
+            border-radius: 8px;
+            object-fit: cover;
+            border: 2px solid #f4f4f9;
+        }
+    
+        .houseDetails {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            width: calc(100% - 220px);
+        }
+    
+        p.header {
+            font-size: 18px;
+            font-weight: bold;
+            margin: 0 0 10px;
+            color: #007BFF;
+        }
+    
+        p.sizem, p.descri, p.pric {
+            margin: 3px;
+        }
+    
+        p.descri {
+            font-style: italic;
+            color: #555;
+            line-height: 1.4;
+        }
+    
+        p.pric {
+            font-weight: bold;
+            color: #28a745;
+            font-size: 16px;
+        }
+        label {
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        input[type="checkbox"] {
+            margin-right: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div id="houses">
+        <label>
+        <input type="checkbox" id="pricefilter"> Less than 1,000,000 euros
+    </label>
+    <label>
+        <input type="checkbox" id="sizefilter"> Less than 200m²
+    </label>
+    </div>
+<script src="ex-4-1.js"></script>
+</body>
+</html>
