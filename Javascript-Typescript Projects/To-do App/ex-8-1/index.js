@@ -9,7 +9,7 @@ app.use(express.json());
 app.use(express.static('public'));
 
 // MongoDB connection
-const mongoDB = 'mongodb+srv://ae8306:5lEVKCQ4UwP8ftJG@cluster0.gzdet.mongodb.net/';
+const mongoDB = 'mongodb+srv://REDACTED';
 mongoose.connect(mongoDB)
   .then(() => console.log('Database connected'))
   .catch(error => console.error('Connection error:', error));
