@@ -4,7 +4,7 @@ A fun and interactive web app for learning Finnish through flashcards! This proj
 
 ---
 
-## 🚀 Upcoming Features & Updates  
+## 🚀 Upcoming Features & Updates 
 
 I have exciting updates planned for the future! Here's what's coming next:  
 
