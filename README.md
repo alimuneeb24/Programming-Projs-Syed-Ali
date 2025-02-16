@@ -1,6 +1,6 @@
 # 🚀 My Personal Projects Hub
 
-Welcome to my GitHub repository! This is where I store and showcase my personal projects, including full-stack web applications, Python utilities, and security-focused scripts that I've built from scratch.  
+My name is Syed M Ali, welcome to my GitHub repository! This is where I store and showcase my personal projects, including full-stack web applications, Python utilities, and security-focused scripts that I've built from scratch.  
 
 ## 📂 Projects  
 
