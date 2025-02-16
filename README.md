@@ -29,7 +29,7 @@ Welcome to my GitHub repository! This is where I store and showcase my personal 
 - **🌐 [Fetch & REST API Projects](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Javascript-Typescript%20Projects/Fetch%20API%20Names/src)**  
   Various projects showcasing my experience in consuming and building REST APIs efficiently.  
 
-- **🛠 Bash Scripts  
+- **🛠 Bash Scripts** 
   Coming Soon:  A collection of automation and security-focused scripts written in **Bash** 
 
 ## 🔥 Cybersecurity & Red Teaming Passion  
