@@ -51,22 +51,10 @@ I have exciting updates planned for the future! Here's what's coming next:
 
 ---
 
-## 📌 How to Run Locally  
-
-1. Clone the repository:  
-   git clone https://github.com/alimuneeb24/Programming-Projs-Syed-Ali.git
-   cd finnish-flashcards
-2. Install dependencies:
-    npm install
-3. Start the development server:
-    npm run dev
-4. Open in the browser:
-    http://localhost:3000 (or any other port you specify)
-
 ## 💡 Contributing
 Want to help improve the project? Feel free to open a pull request or suggest new features! 🚀
 
 ## 📩 Contact
-For questions or suggestions, reach out via https://www.linkedin.com/in/smmuneebali/ .
+For questions or suggestions, reach out via [Linkedin](https://www.linkedin.com/in/smmuneebali/) .
 
 ## Happy Learning! 🇫🇮✨
