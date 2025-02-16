@@ -8,11 +8,6 @@ Welcome to the Real Estate Listings project! This application showcases beautifu
 - **Interactive Filters**: Easily filter listings by price and size to find the perfect home.
 - **Dynamic Rendering**: Listings are dynamically displayed based on real-time data.
 
-## 📂 Project Structure
-
-- **HTML**: Provides the structure of the web page.
-- **CSS**: Adds style and enhances the visual appeal.
-- **JavaScript**: Fetches and renders the listings dynamically.
 
 ## 🎨 Visual Highlights
 
