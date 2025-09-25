@@ -15,14 +15,14 @@ Welcome! This repository is my personal hub for showcasing a diverse range of so
 
 ## 📌 Featured Projects Showcase
 
-### 🌐 [Multithreaded HTTP Server](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/SimpleHttpServer)
+### 🌐 [Multithreaded HTTP Server](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Java_Projects/Multithreaded_HTTP_server)
 A foundational HTTP server built from scratch in pure Java to demonstrate core backend principles. This project showcases a multithreaded architecture where each incoming client connection is handled by a separate worker thread, allowing the server to handle concurrent requests efficiently.
 
 **`Tech:`** `Java` `Socket Programming` `Multithreading` `HTTP/1.1`
 
 ---
 
-### 🛡️ [Pwndows - A Ransomware Anatomy Study](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Pwndows)
+### 🛡️ [Pwndows - A Ransomware Anatomy Study](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Malware/PWNDOWS)
 An educational tool developed to deconstruct and understand the anatomy of modern ransomware. By mimicking basic malware tactics in a controlled environment, this project serves as a powerful resource for developing better defensive strategies and detection signatures. Created for a university cybersecurity exercise to better understand attack vectors.
 
 **`Tech:`** `C` `Windows API` `Malware Analysis` `Defensive Research`
