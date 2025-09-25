@@ -1,49 +1,70 @@
-# 🚀 My Personal Projects Hub
+# 🚀 Syed M Muneeb Ali's Project Portfolio
 
-My name is Syed M Ali, welcome to my GitHub repository! This is where I store and showcase my personal projects, including full-stack web applications, Python utilities, and security-focused scripts that I've built from scratch.  
+Welcome! This repository is my personal hub for showcasing a diverse range of software projects, from backend systems and full-stack web applications to security tools, all built from the ground up.
 
-## 📂 Projects  
+<div>
+  <img src="https://img.shields.io/badge/Java-21+-blue?logo=java&logoColor=white" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/C-Language-blue?logo=c&logoColor=white" alt="C Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=white" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/Python-3.10+-green?logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Node.js-18+-green?logo=node.js&logoColor=white" alt="Node.js Badge"/>
+</div>
 
-### 🏆 Full-Stack Web Apps (JavaScript/TypeScript)  
-- **📚 [Finnish Flashcard App](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Javascript-Typescript%20Projects/Finnish%20Flashcards)*  
-  Are you struggling with learning Finnish? So did I! So, I built a **web-based flashcard app** to boost vocabulary retention. They have 7 categories and over 25 flashcards per category so you don't get bored easily.
-  **Coming Soon**: Adding the backend for full stack functionality, which will serve the links dynamically, it will also include a sign-up/ Login as well as an OAuth feature to store progress. Gamification will also be added utilizing features like streaks and leaderboards etc.
+---
 
-- **🏡 [House Marketplace](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Javascript-Typescript%20Projects/Sell%20and%20Buy%20Houses)** *(React + Node.js)*  
-  A simple real estate listing app where users can browse houses for sale.  
+## 📌 Featured Projects Showcase
 
-- **✅ [Full-Stack To-Do App](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Javascript-Typescript%20Projects/To-do%20App)** *(MongoDB + Express + Node.js + HTML/CSS/JS)*  
-  A basic **task manager** that allows users to create, update, and delete tasks.  
+### 🌐 [Multithreaded HTTP Server](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/SimpleHttpServer)
+A foundational HTTP server built from scratch in pure Java to demonstrate core backend principles. This project showcases a multithreaded architecture where each incoming client connection is handled by a separate worker thread, allowing the server to handle concurrent requests efficiently.
 
-- **🔗 [URL Shortener](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Javascript-Typescript%20Projects/URL%20Shortener)** *(Node.js + Express + MongoDB + ShortID API)*  
-  This app shortens long URLs and tracks the number of times they are clicked.  
+**`Tech:`** `Java` `Socket Programming` `Multithreading` `HTTP/1.1`
 
-### 🐍 Python Projects  
-- **🔑 [Secure Password Generator](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Python%20Projects/password-generator)**  
-  A Python script that generates **strong and secure passwords** with custom length and complexity options.  
+---
 
-- **🌦️ [Weather App](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Python%20Projects/weather%20app)** *(Tkinter + API Integration)*  
-  A lightweight desktop weather app that fetches real-time weather data.  
+### 🛡️ [Pwndows - A Ransomware Anatomy Study](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Pwndows)
+An educational tool developed to deconstruct and understand the anatomy of modern ransomware. By mimicking basic malware tactics in a controlled environment, this project serves as a powerful resource for developing better defensive strategies and detection signatures. Created for a university cybersecurity exercise to better understand attack vectors.
 
-### ⚡ API & Scripting  
-- **🌐 [Fetch & REST API Projects](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Javascript-Typescript%20Projects/Fetch%20API%20Names/src)**  
-  Various projects showcasing my experience in consuming and building REST APIs efficiently.  
+**`Tech:`** `C` `Windows API` `Malware Analysis` `Defensive Research`
 
-- **🛠 Bash Scripts** 
-  Coming Soon:  A collection of automation and security-focused scripts written in **Bash** 
+---
 
-## 🔥 Cybersecurity & Red Teaming Passion  
-I am deeply passionate about **cybersecurity** and actively studying to become a **Red Teamer**. My goal is to **help organizations improve their security posture** by identifying and mitigating vulnerabilities before malicious actors can exploit them.  
+### 📚 [Finnish Flashcard App](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Javascript-Typescript%20Projects/Finnish%20Flashcards)
+As a language learner myself, I built this web-based flashcard app to boost Finnish vocabulary retention. It features 7 categories with over 25 flashcards each to keep learning engaging. The next stage involves building a full-stack backend for user progress and gamification.
 
-## 🛠️ Tech Stack  
-- **Languages:** JavaScript, TypeScript, Python, Bash
-- **Frontend:** React, HTML, CSS  
-- **Backend:** Node.js, Express.js, MongoDB  
-- **Security:** Scripting, Web and App Penetration Testing, and Red Teaming
+**`Tech:`** `JavaScript` `HTML5` `CSS3` `Full-Stack Development`
 
-## 🙏 Support My Work  
-I built these projects with passion and dedication and I would love to share them with a wider audience. If you find my work useful, consider **starring this repo ⭐** or reaching out for collaboration opportunities!  
+---
 
-## Contact Me
-Feel free to contact me in working days on my [Linkedin](https://www.linkedin.com/in/smmuneebali/) or on my [Email](mailto:24muneebsmma@gmail.com)
+## 📦 Other Notable Projects
 
+- **🏡 [House Marketplace](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Javascript-Typescript%20Projects/Sell%20and%20Buy%20Houses)** — A simple real estate listing app built with React and Node.js.
+- **✅ [Full-Stack To-Do App](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Javascript-Typescript%20Projects/To-do%20App)** — A classic task manager using the MERN stack (MongoDB, Express, React, Node.js).
+- **🔗 [URL Shortener](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Javascript-Typescript%20Projects/URL%20Shortener)** — A Node.js app to shorten long URLs and track click analytics.
+- **🔑 [Secure Password Generator](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Python%20Projects/password-generator)** — A Python script for generating strong, secure passwords.
+
+---
+
+## 🔥 My Cybersecurity Philosophy
+
+> I am deeply passionate about cybersecurity and am actively pursuing a path in offensive security to build better defenses. My goal is to help organizations improve their security posture by identifying and mitigating vulnerabilities. **I believe the best defense comes from truly understanding the offense.**
+
+---
+
+## 🛠️ Skills & Technologies
+
+*   💻 **Languages:** `Java` `C` `JavaScript` `TypeScript` `Python` `Bash`
+*   ⚙️ **Backend:** `Node.js` `Express.js` `Socket Programming` `MongoDB` `REST APIs`
+*   🎨 **Frontend:** `React` `HTML5` `CSS3` `DOM Manipulation`
+*   🛡️ **Security:** `Malware Analysis` `Web & App Penetration Testing` `Red Team Methodologies`
+*   🔧 **Tools:** `Git` `GitHub` `Docker (Familiar)` `CI/CD (Familiar)`
+
+---
+
+## ⭐ Support My Work
+
+I built these projects with passion and dedication. If you find my work useful or interesting, please consider **starring this repo ⭐** or reaching out for collaboration opportunities!
+
+## 📬 Get In Touch
+
+Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/smmuneebali/)** or reach out via **[Email](mailto:24muneebsmma@gmail.com)**.
