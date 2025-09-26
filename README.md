@@ -22,7 +22,7 @@ A foundational HTTP server built from scratch in pure Java to demonstrate core b
 
 ---
 
-### 🛡️ [Pwndows - A Ransomware Anatomy Study](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Malware/PWNDOWS)
+### 🛡️ [Pwndows - A Ransomware Anatomy Study](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/C_Language/PWNDOWS)
 An educational tool developed to deconstruct and understand the anatomy of modern ransomware. By mimicking basic malware tactics in a controlled environment, this project serves as a powerful resource for developing better defensive strategies and detection signatures. Created for a university cybersecurity exercise to better understand attack vectors.
 
 **`Tech:`** `C` `Windows API` `Malware Analysis` `Defensive Research`
