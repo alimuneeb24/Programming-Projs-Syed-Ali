@@ -29,7 +29,7 @@ An educational tool developed to deconstruct and understand the anatomy of moder
 
 ---
 
-### 📚 [Finnish Flashcard App](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Javascript-Typescript%20Projects/Finnish%20Flashcards)
+### 📚 [Finnish Flashcard App](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Javascript_Typescript_Projects/Finnish%20Flashcards)
 As a language learner myself, I built this web-based flashcard app to boost Finnish vocabulary retention. It features 7 categories with over 25 flashcards each to keep learning engaging. The next stage involves building a full-stack backend for user progress and gamification.
 
 **`Tech:`** `JavaScript` `HTML5` `CSS3` `Full-Stack Development`
@@ -38,9 +38,9 @@ As a language learner myself, I built this web-based flashcard app to boost Finn
 
 ## 📦 Other Notable Projects
 
-- **🏡 [House Marketplace](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Javascript-Typescript%20Projects/Sell%20and%20Buy%20Houses)** — A simple real estate listing app built with React and Node.js.
-- **✅ [Full-Stack To-Do App](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Javascript-Typescript%20Projects/To-do%20App)** — A classic task manager using the MERN stack (MongoDB, Express, React, Node.js).
-- **🔗 [URL Shortener](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Javascript-Typescript%20Projects/URL%20Shortener)** — A Node.js app to shorten long URLs and track click analytics.
+- **🏡 [House Marketplace](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Javascript_Typescript_Projects/Sell%20and%20Buy%20Houses)** — A simple real estate listing app built with React and Node.js.
+- **✅ [Full-Stack To-Do App](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Javascript_Typescript_Projects/To-do%20App)** — A classic task manager using the MERN stack (MongoDB, Express, React, Node.js).
+- **🔗 [URL Shortener](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Javascript_Typescript_Projects/URL%20Shortener)** — A Node.js app to shorten long URLs and track click analytics.
 - **🔑 [Secure Password Generator](https://github.com/alimuneeb24/Programming-Projs-Syed-Ali/tree/main/Python%20Projects/password-generator)** — A Python script for generating strong, secure passwords.
 
 ---
